@@ -1,1 +1,1 @@
-# shopify_test
+# InsurMagic
